@@ -1,6 +1,6 @@
 # yttriferous
 
-my new project
+my new project is the best
 
 This project is a seed for creating [.NET Core][dotnet] service projects.
 
